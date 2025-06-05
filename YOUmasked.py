@@ -11,6 +11,8 @@ print("""░▒▓█▓▒░░▒▓█▓▒░░▒▓██████�
                                                                                                                               """)
 
 print("My Github: https://github.com/OCOYE")
+print("Repository: https://github.com/OCOYE/YOUmasked")
+print("MIT License\n")
 input("Press 'Enter' to generate a random email and a password:")
 email = [
     "John", "David", "Raphel", "Steve", "Alex", "Julia", "Jenny", "Alex", "Pedro"
